@@ -15,4 +15,3 @@ files[] = {"path":"C:\\pz\\Postman\\Learn\\Petstore.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
-rootFiles[] = C:\pz\Postman\Learn\Petstore.yaml
